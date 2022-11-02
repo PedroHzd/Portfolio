@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+header, figure, article, section, div, footer {
+    border-style: solid, blue;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blue;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 40px;
+    color: mediumslateblue;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 15px;
+    margin-right: 20px;
+    margin-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+
+
